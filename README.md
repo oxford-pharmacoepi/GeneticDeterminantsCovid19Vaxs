@@ -1,10 +1,10 @@
 # GeneticDeterminantsCovid19Vaxs
 
-**Background**: The impact of genetics on the heterogeneous immune response and risks of breakthrough infections remains unclear for the different COVID-19 vaccines. Understanding the role of genetic variants on humoral response and subsequent breakthrough outcomes is key to reveal mechanisms underlying vaccine effectiveness. 
+**Background**: The impact of genetics on the heterogeneous immune response and risks of breakthrough infections remains unclear for the different COVID-19 vaccines. Understanding the role of genetic variants on seroconversion and subsequent breakthrough outcomes is key to reveal mechanisms underlying vaccine effectiveness. 
 
-**Objective**: To perform four genome wide association studies among vaccinated participants for COVID-19 vaccine antibody response and breakthrough outcomes. 
+**Objective**: To perform four genome wide association studies among vaccinated participants for COVID-19 vaccine seroconversion and breakthrough outcomes. 
 
-For more information: [LINK TO THE ARTICLE]
+For more information see the original publication (here)[https://www.nature.com/articles/s41467-024-52890-6].
 
 # Running the analysis
 Previously, you must ensure that you have a directory "${folder directory}" with the following files:
